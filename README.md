@@ -1,4 +1,4 @@
 ## Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=K-S-VICKY&color=blue)
 
-![Profile Views](https://komarev.com/ghpvc/?K-S-VICKY=K-S-VICKY&color=blue)
 
